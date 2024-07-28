@@ -5,7 +5,7 @@ Awesome color animations using JavaScript libraries
 
 ## Live link
 
-https://peter-kimanzi.github.io/Awesome-color-animations/
+https://quicksilver-lab.github.io/CSS-Animation/
 
 ## Screenshots
 ![colo](https://github.com/peter-kimanzi/Awesome-color-animations/assets/71552773/efced2d3-1e7a-405a-9de4-8ff120c49489)
